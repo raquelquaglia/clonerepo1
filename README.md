@@ -1,10 +1,10 @@
 # clonerepo1
 practice prework
 
-### test
+### test 1
 
-## test
+## test 2
 
-# test
+# test 3
 
-this is practice
+this is practice for hw
